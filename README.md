@@ -1,6 +1,6 @@
 # | PCA | CV | Brain | Prediction
 
-[Kaggle](https://www.kaggle.com/code/yannicksteph/cnn-cv-brain-prediction)
+[Kaggle](https://www.kaggle.com/yannicksteph/pca-cv-brain-prediction)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -30,4 +30,4 @@ Data is sourced from RSNA and MICCAI, two reputable organizations in the medical
  
 # 5. Implementing PCA
 
-[Kaggle](https://www.kaggle.com/code/yannicksteph/cnn-cv-brain-prediction)
+[Kaggle](https://www.kaggle.com/yannicksteph/pca-cv-brain-prediction)
