@@ -28,4 +28,6 @@ Data is sourced from RSNA and MICCAI, two reputable organizations in the medical
     - [Data augmentation for deep learning based accelerated MRI reconstruction with limited data](https://arxiv.org/abs/2106.14947)
     - [Data augmentation: how to overcome small radiology datasets](https://www.quantib.com/blog/image-augmentation-how-to-overcome-small-radiology-datasets?hs_amp=true)
  
-#5. Implementing PCA
+# 5. Implementing PCA
+
+[Kaggle](https://www.kaggle.com/code/yannicksteph/cnn-cv-brain-prediction)
